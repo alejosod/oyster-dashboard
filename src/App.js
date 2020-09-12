@@ -3,7 +3,7 @@ import React from 'react';
 
 function App() {
   return (
-    <div>
+    <div data-testid="oyster-app">
       hello world
     </div>
   );
